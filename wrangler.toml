@@ -1,0 +1,11 @@
+name = "602casa-com-v1"
+compatibility_date = "2026-06-30"
+workers_dev = true
+
+[[routes]]
+pattern = "602casa.com/*"
+zone_name = "602casa.com"
+
+[assets]
+directory = "./dist"
+html_handling = "auto-trailing-slash"

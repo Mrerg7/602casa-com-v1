@@ -1,0 +1,5 @@
+# Prevent indexing of /index.html duplicate URLs
+/index.html
+  X-Robots-Tag: noindex
+/*/index.html
+  X-Robots-Tag: noindex

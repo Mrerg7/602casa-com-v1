@@ -1,0 +1,2 @@
+# Cloudflare redirects — trailing slash enforcement
+/index.html  /  301
